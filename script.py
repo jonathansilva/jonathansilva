@@ -40,12 +40,12 @@ holidays = {
     }],
     9: [{
         "day": 7,
-        "name": "Independência do Brasil",
+        "name": "Dia da Independência do Brasil",
         "emoji": "🟧 "
     }],
     10: [{
         "day": 12,
-        "name": "Nossa Senhora Aparecida",
+        "name": "Dia de Nossa Senhora Aparecida",
         "emoji": "🟧 "
     }],
     11: [{
@@ -54,7 +54,7 @@ holidays = {
             "emoji": "🟧 "
         },{
             "day": 15,
-            "name": "Proclamação da República",
+            "name": "Dia da Proclamação da República",
             "emoji": "🟧 "
         },{
             "day": 20,
